@@ -1,0 +1,12 @@
+Thank you for your donation!
+
+Welcome to Kain's Private Repo: https://bitbucket.org/KainBoL/bol-private/src
+Make sure you don't miss all of the additional scripts in the Common folder.
+This private repo is brand new, so expect good things coming soon.
+
+Check out Change Log here: https://bitbucket.org/KainBoL/bol/src/master/What%27s%20New%20on%20Private%20Repo.txt
+
+Many of the newer scripts require Reborn rev. 31+. If you get errors, make sure you're on this version or later. Jinx requires rev. 35+.
+
+-- Kain
+
